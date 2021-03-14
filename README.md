@@ -18,9 +18,6 @@
 <br>
 </p>
 
-
-<br>
-<hr>
 <br>
 
 **What i'm learning?**
