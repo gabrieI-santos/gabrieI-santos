@@ -9,8 +9,9 @@
 
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
-<img align="left" height="20" src="https://cdn.iconscout.com/icon/free/png-512/vuejs-1175052.png">
-<img align="left" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
+<img align="left" height="20" src="https://w7.pngwing.com/pngs/738/264/png-transparent-angularjs-react-vue-js-javascript-library-others-thumbnail.png">
+<img align="left" height="20" src="https://pngimg.com/uploads/php/php_PNG7.png">
+<img align="left" height="20" src="https://banner2.cleanpng.com/20180411/ejq/kisspng-elixir-erlang-functional-programming-programming-l-phoenix-5ace5ed997ba31.6725697215234741376215.jpg">
 <img align="left" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
 <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/python.png">
