@@ -1,9 +1,9 @@
 **About me**
 
- <h6>- 👋 Hi, I’m Gabriel R. dos Santos.</h6>
+ <h5>- 👋 Hi, I’m Gabriel R. dos Santos.
 - 💞️ I'm collaborating on PuzlPlace
 - 📫 How to reach me: gabriel.santos@puzl.place
-
+</h5>
 
 **Languages and tools:**
 
