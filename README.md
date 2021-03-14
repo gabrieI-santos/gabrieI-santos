@@ -21,7 +21,9 @@
 **What i'm learning?**
 
 <h4>
+    <img height="30" align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png">
    <img height="30" align="left" src="https://warlord0blog.files.wordpress.com/2019/10/nuxtjs_logo.png">
-  <img height="30" align="left" src="https://warlord0blog.files.wordpress.com/2019/10/nuxtjs_logo.png">
+  <img height="30" align="left" src="https://i0.wp.com/blog.psantos.dev/wp-content/uploads/2019/04/phoenix-elixir.png?fit=400%2C400&ssl=1">
+   
 </h4>
 
