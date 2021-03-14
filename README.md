@@ -1,4 +1,4 @@
-**About me**
+**<h4>About me</h4>**
 
 - 👋 Hi, I’m Gabriel R. dos Santos.
 - 💞️ I'm collaborating on PuzlPlace
