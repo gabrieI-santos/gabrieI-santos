@@ -5,11 +5,9 @@
 - 📫 How to reach me: gabriel.santos@puzl.place
 
 
-**About me**
-
-- 👋 Hi, I’m Gabriel R. dos Santos.
-- 💞️ I'm collaborating on PuzlPlace
-- 📫 How to reach me: gabriel.santos@puzl.place
+**What i'm learning?**
+<img height="30" align="left" src="https://warlord0blog.files.wordpress.com/2019/10/nuxtjs_logo.png">
+<img height="30" align="left" src="https://banner2.cleanpng.com/20181128/ise/kisspng-the-little-elixir-otp-guidebook-functional-progr-5bfeba36082917.8250589815434204700334.jpg">
 
 
 **Languages and tools:**
