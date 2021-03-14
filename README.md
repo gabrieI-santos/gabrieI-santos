@@ -5,6 +5,13 @@
 - 📫 How to reach me: gabriel.santos@puzl.place
 
 
+**About me**
+
+- 👋 Hi, I’m Gabriel R. dos Santos.
+- 💞️ I'm collaborating on PuzlPlace
+- 📫 How to reach me: gabriel.santos@puzl.place
+
+
 **Languages and tools:**
 
 <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
@@ -15,6 +22,3 @@
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
 <img height="30" align="left" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
 
-<br>
-
-<p>oi</p>
