@@ -7,9 +7,8 @@
 
 **Languages and tools:**
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
-<img align="left" height="20" width="50" src="https://w7.pngwing.com/pngs/738/264/png-transparent-angularjs-react-vue-js-javascript-library-others-thumbnail.png">
+<img align="left" height="20" width="90" src="https://w7.pngwing.com/pngs/738/264/png-transparent-angularjs-react-vue-js-javascript-library-others-thumbnail.png">
 <img align="left" height="20" src="https://pngimg.com/uploads/php/php_PNG7.png">
 <img align="left" height="20" src="https://banner2.cleanpng.com/20180411/ejq/kisspng-elixir-erlang-functional-programming-programming-l-phoenix-5ace5ed997ba31.6725697215234741376215.jpg">
 <img align="left" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
