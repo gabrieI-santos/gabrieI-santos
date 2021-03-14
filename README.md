@@ -16,8 +16,7 @@
 <img height="30" align="left" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
 
 
-<br>
-**What i'm learning?**
+**Languages and tools:**
 
 <img align="left" height="30" src="https://i0.wp.com/blog.psantos.dev/wp-content/uploads/2019/04/phoenix-elixir.png">
 <img align="left" height="30" src="https://seeklogo.com/images/N/nuxt-logo-5EF50E1ABD-seeklogo.com.png">
