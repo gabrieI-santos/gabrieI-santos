@@ -8,7 +8,7 @@
 **Languages and tools:**
 
 <p>
-<img align="" left="30" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
+<img align="" style="margin-right: 30px" left="30" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
 <img align="" left="30" height="30" src="https://cdn.iconscout.com/icon/free/png-512/vuejs-1175052.png">
 <img align="" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
 <img align="" height="30" src="https://pngimg.com/uploads/php/php_PNG7.png">
