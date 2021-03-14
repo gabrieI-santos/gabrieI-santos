@@ -9,7 +9,7 @@
 
 <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
 <img align="left" height="30" src="https://pngimg.com/uploads/php/php_PNG7.png">
-<img align="left" height="30" src="http://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png>
+<img align="left" height="30" src="http://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png">
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
 <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
