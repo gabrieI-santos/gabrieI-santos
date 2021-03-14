@@ -14,5 +14,5 @@
 <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
 <img height="30" align="left" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
-<img align="left" height="30" src="https://banner2.cleanpng.com/20180411/ejq/kisspng-elixir-erlang-functional-programming-programming-l-phoenix-5ace5ed997ba31.6725697215234741376215.jpg">
+<img align="left" height="30" src="https://img2.gratispng.com/20181128/ise/kisspng-the-little-elixir-otp-guidebook-functional-progr-5bfeba36082917.8250589815434204700334.jpg">
 
