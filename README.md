@@ -15,6 +15,8 @@
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png">
 <img height="30" align="left" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
 
+
+
 **What i'm learning?**
 
 <img align="left" height="30" src="https://i0.wp.com/blog.psantos.dev/wp-content/uploads/2019/04/phoenix-elixir.png">
