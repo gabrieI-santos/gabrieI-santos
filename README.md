@@ -9,7 +9,7 @@
 
 <h4>
 <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
-<img align="left" height="30" src="https://cdn.iconscout.com/icon/free/png-512/vuejs-1175052.png">
+<img align="left" height="30" src="https://spng.subpng.com/20180718/zqt/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1b93c716.7614705815318871316053.jpg">
 <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
 <img align="left" height="30" src="https://pngimg.com/uploads/php/php_PNG7.png">
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
