@@ -10,7 +10,7 @@
 <h4>
 <img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
 <img align="left" height="30" src="https://github.com/biandishilaji/teste-dev-php/blob/Gabriel-Rodrigues-dos-Santos/github/vue.png">
-<img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
+<img align="left" height="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Deno.svg/1200px-Deno.svg.png">
 <img align="left" height="30" src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png">
 <img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
