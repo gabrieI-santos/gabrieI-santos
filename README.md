@@ -18,6 +18,8 @@
 <img height="30" align="" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
 <br>
 <br>
+<br>
+<br>
 </h4>
 
 **What i'm learning?**
