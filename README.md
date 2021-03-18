@@ -1,6 +1,6 @@
 **About me**
 
-- 👋 Hi, I’m Gabrie Santos.
+- 👋 Hi, I’m Gabriel Santos.
 - ✉️ How to reach me: gabriel.santos@puzl.place
 
 
