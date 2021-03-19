@@ -1,7 +1,12 @@
 
+<h1>
+    
 <img align="left" height="50" src="https://github.com/gabrieldev4/gabrieldev4/blob/main/images/puzl.png">
-
 <br>
+<br>
+</h1>
+<hr>
+
 **About me**
 
 - 👋 Hi, I’m Gabriel Santos.
