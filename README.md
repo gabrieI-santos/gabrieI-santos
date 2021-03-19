@@ -3,6 +3,7 @@
     
 <img align="left" height="50" src="https://github.com/gabrieldev4/gabrieldev4/blob/main/images/puzl.png">
 <hr>
+<br>
 
 **About me**
 
