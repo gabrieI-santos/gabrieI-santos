@@ -1,7 +1,7 @@
 
 <h1>
     
-<img align="center" height="50" src="https://github.com/gabrieldev4/gabrieldev4/blob/main/images/puzl.png">
+<img align="center" height="70" src="https://github.com/gabrieldev4/gabrieldev4/blob/main/images/puzl.png">
 <br>
 </h1>
 
