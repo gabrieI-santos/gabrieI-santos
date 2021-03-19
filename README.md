@@ -1,5 +1,5 @@
 
-<img align="left" height="30" src="https://github.com/gabrieldev4/gabrieldev4/tree/main/images">
+<img align="left" height="30" src="https://github.com/gabrieldev4/gabrieldev4/blob/main/images/puzl.png">
 
 **About me**
 
