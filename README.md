@@ -1,9 +1,6 @@
 
 <h1>
-    
-<img align="center" height="70" src="https://github.com/gabrieldev4/gabrieldev4/blob/main/images/puzl.png">
-<br>
- <img align="center" src="http://filfelix.com.br/wp-content/uploads/2017/03/Sonhos-Multifacetados-Collage-Fil-Felix-3.gif" width="70">
+<img align="center" height="70" src="http://2.bp.blogspot.com/-TOAKdwF1M-M/UfyLRET9myI/AAAAAAAAe48/bNGlhUzCaoY/s1600/organiza_01.gif">
 </h1>
 
 **Languages and tools:**
