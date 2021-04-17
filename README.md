@@ -3,9 +3,8 @@
     
 <img align="center" height="70" src="https://github.com/gabrieldev4/gabrieldev4/blob/main/images/puzl.png">
 <br>
+ <img align="center" src="http://filfelix.com.br/wp-content/uploads/2017/03/Sonhos-Multifacetados-Collage-Fil-Felix-3.gif" width="70">
 </h1>
-
-**Hi, I'm Gabriel!<br> <img align="center" src="http://filfelix.com.br/wp-content/uploads/2017/03/Sonhos-Multifacetados-Collage-Fil-Felix-3.gif" width="70">**
 
 **Languages and tools:**
 
