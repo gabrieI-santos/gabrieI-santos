@@ -35,11 +35,11 @@
    <img height="30" align="left" src="https://warlord0blog.files.wordpress.com/2019/10/nuxtjs_logo.png">
  <br>
     <br>
-    
-    
-      
 </h4>
 
+## ⚡ Github Stats
+
+![Gabriel Santos Github Stats](https://github-readme-stats.vercel.app/api?username=gabrieldev4&theme=light)
 
 <h6>
     "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
