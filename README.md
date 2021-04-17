@@ -5,7 +5,7 @@
 <br>
 </h1>
 
-**Hi, I'm Gabriel! <img align="center" src="http://filfelix.com.br/wp-content/uploads/2017/03/Sonhos-Multifacetados-Collage-Fil-Felix-3.gif" width="70">**
+**Hi, I'm Gabriel!<br> <img align="center" src="http://filfelix.com.br/wp-content/uploads/2017/03/Sonhos-Multifacetados-Collage-Fil-Felix-3.gif" width="70">**
 
 **Languages and tools:**
 
