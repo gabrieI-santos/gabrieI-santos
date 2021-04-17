@@ -5,12 +5,7 @@
 <br>
 </h1>
 
-
-**About me**
-
-- 👋 Hi, I’m Gabriel Santos.
-- ✉️ How to reach me: gabriel.santos@puzl.place
-
+**Hi, I'm Gabriel! <img align="center" src="http://filfelix.com.br/wp-content/uploads/2017/03/Sonhos-Multifacetados-Collage-Fil-Felix-3.gif" width="70">**
 
 **Languages and tools:**
 
