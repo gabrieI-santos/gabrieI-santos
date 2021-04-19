@@ -32,6 +32,9 @@
 
 ## ⚡ Github Stats
 
+ <img width="70" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Santos)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Gabriel Santos Github Stats](https://github-readme-stats.vercel.app/api?username=gabrieldev4&theme=light)
