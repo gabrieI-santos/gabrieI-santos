@@ -37,7 +37,7 @@
 ![Gabriel Santos Github Stats](https://github-readme-stats.vercel.app/api?username=gabriel-santos&theme=light)
 
 [![](https://komarev.com/ghpvc/?username=gabrieldev4&color=blue&label=Profile%20Views)](https://github.com/gabriel-santos/gabriel-santos)
-[![](https://img.shields.io/github/followers/gabrieldev4?label=GitHub%20Followers)](https://github.com/gabriel-santos)
+[![](https://img.shields.io/github/followers/gabriel-santos?label=GitHub%20Followers)](https://github.com/gabriel-santos)
 
 <h6>
     "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
