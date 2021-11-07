@@ -34,7 +34,7 @@
  
 [![Gabriel wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Santos)](https://github.com/anuraghazra/github-readme-stats)
 
-![Gabriel Santos Github Stats](https://github-readme-stats.vercel.app/api?username=gabriel-santos4&theme=light)
+![Gabriel Santos Github Stats](https://github-readme-stats.vercel.app/api?username=gabriel-santos&theme=light)
 
 [![](https://komarev.com/ghpvc/?username=gabrieldev4&color=blue&label=Profile%20Views)](https://github.com/gabriel-santos/gabriel-santos)
 [![](https://img.shields.io/github/followers/gabrieldev4?label=GitHub%20Followers)](https://github.com/gabriel-santos)
