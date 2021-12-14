@@ -1,6 +1,6 @@
 
 <h1>
-<img align="center" height="70" src="https://i.ibb.co/7XgGTgm/Soda-PDF-converted-687474703a2f2f322e62702e626c6f6773706f742e636f6d2f2d544f414b647746314d2d4d2f55667.png">
+<img align="center" height="70" src="https://slack-files.com/T01QF3GS7CH-F021VR518KC-0e2e94651b">
 </h1>
 
 **Languages and tools:**
