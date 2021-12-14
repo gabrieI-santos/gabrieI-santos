@@ -1,6 +1,6 @@
 
 <h1>
-<img align="center" height="100" width="150" src="https://files.slack.com/files-pri/T01QF3GS7CH-F021VR518KC/logo-sem-fundo.png?pub_secret=0e2e94651b">
+<img align="center" height="130" width="150" src="https://files.slack.com/files-pri/T01QF3GS7CH-F021VR518KC/logo-sem-fundo.png?pub_secret=0e2e94651b">
 </h1>
 
 **Languages and tools:**
